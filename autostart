@@ -20,3 +20,4 @@ tint2 &
 pnmixer &
 nm-applet &
 (sleep 3 && xcompmgr -c 10 -r 12) &
+(sleep 3 && conky -c .conkyrc) &
